@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=abdel-ke)](https://github.com/mohouyizme/1337-readme)
+
+<a href="https://github.com/abdel-ke?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-ke&theme=dark"/>
+</a>
+<a href="https://github.com/abdel-ke?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdel-ke&line_height=40&show_icons=true&theme=dark">
+</a>
+
+
 <!--
 **abdel-ke/abdel-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
