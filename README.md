@@ -14,7 +14,7 @@
 <!-- NEW -->
 <!-- https://badge.mediaplus.ma/darkblue/abdel-ke -->
 <!-- [![abdel-ke's 42 stats](https://badge.mediaplus.ma/darkblue/abdel-ke)](https://github.com/oakoudad/badge42) -->
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/darkblue/abdel-ke" alt="abdel-ke's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/abdel-ke" alt="abdel-ke's 42 stats" /></a>
 <!-- END NEW -->
 
 
